@@ -1,0 +1,17 @@
+git add 
+git commit -m "message"
+git remote add origin " name of the origin"
+git push origin master or name of the branch
+git pull origin master or name of the branch
+
+To create branch 
+git branch name of the branch
+
+To check which brach now
+git branch
+
+To switch branch
+git checkout branch name
+
+git log
+
